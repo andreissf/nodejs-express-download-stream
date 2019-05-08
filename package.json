@@ -1,0 +1,14 @@
+{
+  "name": "filedownload",
+  "version": "1.0.0",
+  "description": "Download arquivos com base em stream and response file",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "author": "Andrei Silva da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
